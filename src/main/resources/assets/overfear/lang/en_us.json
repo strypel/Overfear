@@ -1,0 +1,21 @@
+{
+  "item.overfear.aluminum": "Raw Aluminum",
+  "item.overfear.aluminum_ingot": "Aluminum Ingot",
+  "item.overfear.foil": "Aluminium foil",
+  "item.overfear.tape": "Tape",
+  "item.overfear.activity_analyzer": "Activity Analyzer",
+  "item.overfear.tape.data": "Data",
+  "block.overfear.aluminum_ore": "Aluminum ore",
+  "block.overfear.analog_crafting_table": "Analog Crafting table",
+  "block.overfear.data_generator": "Data Generator",
+  "entity.overfear.spectator": "Spectator",
+  "itemGroup.overfear": "Overfear",
+  "attribute.name.generic.data": "Data",
+
+  "sign.random.text_1": "Do you like hurting other people?",
+  "sign.random.text_2": "null",
+  "sign.random.text_3": "I see you",
+  "sign.random.text_4": "Are you sure you can trust her?",
+  "sign.random.text_5": "The voice of time is calling",
+  "sign.random.text_6": "How's the new pickaxe?"
+}

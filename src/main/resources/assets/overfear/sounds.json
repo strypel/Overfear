@@ -1,0 +1,83 @@
+{
+  "spectator_sound_idle": {
+    "subtitle": "sounds.overfear.spectator_sound_idle",
+    "sounds": [
+      {
+        "name": "overfear:spectator_sound_idle",
+        "stream": true
+      }
+    ]
+  },
+  "gravel_run_1": {
+    "subtitle": "sounds.overfear.gravel_run_1",
+    "sounds": [
+      {
+        "name": "overfear:gravel_run_1"
+      }
+    ]
+  },
+  "spectator_1": {
+    "subtitle": "sounds.overfear.spectator_1",
+    "sounds": [
+      {
+        "name": "overfear:spectator_1"
+      }
+    ]
+  },
+  "wood_place_1": {
+    "subtitle": "sounds.overfear.wood_place_1",
+    "sounds": [
+      {
+        "name": "overfear:wood_place_1"
+      }
+    ]
+  },
+  "activity_analyzer_check": {
+    "subtitle": "sounds.overfear.activity_analyzer_check",
+    "sounds": [
+      {
+        "name": "overfear:activity_analyzer_check"
+      }
+    ]
+  },
+  "activity_analyzer_warning": {
+    "subtitle": "sounds.overfear.activity_analyzer_warning",
+    "sounds": [
+      {
+        "name": "overfear:activity_analyzer_warning"
+      }
+    ]
+  },
+  "activity_analyzer_clack": {
+    "subtitle": "sounds.overfear.activity_analyzer_clack",
+    "sounds": [
+      {
+        "name": "overfear:activity_analyzer_clack"
+      }
+    ]
+  },
+  "fire_in_the_hole": {
+    "subtitle": "sounds.overfear.fire_in_the_hole",
+    "sounds": [
+      {
+        "name": "overfear:fire_in_the_hole"
+      }
+    ]
+  },
+  "glitch_01": {
+    "subtitle": "sounds.overfear.glitch_01",
+    "sounds": [
+      {
+        "name": "overfear:glitch_01"
+      }
+    ]
+  },
+  "screamer_1": {
+    "subtitle": "sounds.overfear.screamer_1",
+    "sounds": [
+      {
+        "name": "overfear:screamer_1"
+      }
+    ]
+  }
+}

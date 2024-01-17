@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "overfear:block/analog_crafting_table",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "overfear:block/analog_crafting_table"
+    },
+    "facing=south": {
+      "model": "overfear:block/analog_crafting_table",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "overfear:block/analog_crafting_table",
+      "y": 270
+    }
+  }
+}
